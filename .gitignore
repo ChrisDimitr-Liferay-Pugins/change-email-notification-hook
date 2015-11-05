@@ -1,0 +1,10 @@
+*.war
+*.log
+*.classpath
+*.project
+*.directory
+*.sublime-workspace
+*~
+*.orig
+*fuse_hidden*
+/.settings
